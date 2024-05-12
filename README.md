@@ -34,9 +34,16 @@ npm install netlify-identity-widget
 yarn add netlify-identity-widget
 # or pnpm
 pnpm add netlify-identity-widget
+
+# Install types for TypeScript
+npm install @types/netlify-identity-widget
+# or yarn
+yarn add @types/netlify-identity-widget
+# or pnpm
+pnpm add @types/netlify-identity-widget
 ```
 
-## Import the package in your React component:
+## Import the package into your React component:
 
 ```javascript
 import { GatedComponent } from 'netlify-gated-components'

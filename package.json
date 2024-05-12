@@ -1,6 +1,6 @@
 {
   "name": "netlify-gated-components",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A React component for gated content using Netlify Identity",
   "main": "dist/GatedComponent.js",
   "types": "dist/GatedComponent.d.ts",
