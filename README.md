@@ -6,8 +6,6 @@ Or more simply understood, put anything that needs authentication inside a `<Gat
 
 If you want to render a login form when the user is not authenticated, you can pass a component as a prop to the `noAccessContent` prop.
 
-**Note:** this package does not use TypeScript (yet).
-
 <img width="500" alt="screenie" src="https://github.com/neontomo/netlify-gated-components/assets/105588693/33283358-b97e-4614-89b3-4a5693d41cf4">
 
 _Styling is not included in the package._
@@ -138,3 +136,5 @@ NO license.
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have any questions or suggestions.
+
+https://github.com/neontomo/netlify-gated-components-npm
