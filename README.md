@@ -1,12 +1,14 @@
 # GatedComponent
 
-This is a React component that provides gated content functionality using Netlify Identity. It allows you to restrict access to certain parts of your application based on the user's authentication status.
+This is an NPM package that creates a React component for gated content functionality using Netlify Identity. It allows you to restrict access to certain parts of your application based on the user's authentication status.
 
 Or more simply understood, put anything that needs authentication inside a `<GatedComponent></GatedComponent>` tag and it will only be rendered if the user is logged in.
 
 If you want to render a login form when the user is not authenticated, you can pass a component as a prop to the `noAccessContent` prop.
 
 **Note:** this package does not use TypeScript (yet).
+
+<img width="500" alt="screenie" src="https://github.com/neontomo/netlify-gated-components/assets/105588693/33283358-b97e-4614-89b3-4a5693d41cf4">
 
 ## Installation
 
