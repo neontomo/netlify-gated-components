@@ -10,6 +10,8 @@ If you want to render a login form when the user is not authenticated, you can p
 
 <img width="500" alt="screenie" src="https://github.com/neontomo/netlify-gated-components/assets/105588693/33283358-b97e-4614-89b3-4a5693d41cf4">
 
+_Styling is not included in the package._
+
 ## Installation
 
 To install this package, run the following command:
