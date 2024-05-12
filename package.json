@@ -1,0 +1,15 @@
+{
+  "name": "netlify-gated-components",
+  "version": "1.0.2",
+  "description": "A React component for gated content using Netlify Identity",
+  "main": "GatedComponent.jsx",
+  "types": "GatedComponent.jsx",
+  "scripts": {
+    "build": "tsc"
+  },
+  "private": false,
+  "dependencies": {
+    "netlify-identity-widget": "^1.9.2",
+    "react": "^18.3.1"
+  }
+}
