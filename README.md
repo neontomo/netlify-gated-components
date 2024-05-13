@@ -133,7 +133,7 @@ export default Component
 
 ## License
 
-NO license.
+MIT Open Source.
 
 ## Author
 
