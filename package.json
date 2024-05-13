@@ -1,6 +1,6 @@
 {
   "name": "netlify-gated-components",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "show/hide components based on login state using Netlify Identity in React",
   "main": "dist/GatedComponent.js",
   "types": "dist/GatedComponent.d.ts",
