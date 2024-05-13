@@ -46,7 +46,7 @@ pnpm add @types/netlify-identity-widget
 ## Import the package into your React component:
 
 ```javascript
-import { GatedComponent } from 'netlify-gated-components'
+import GatedComponent from 'netlify-gated-components'
 ```
 
 ## Usage
